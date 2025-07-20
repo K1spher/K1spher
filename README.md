@@ -1,6 +1,6 @@
 ## Bienvenid@s!
 Soy K1sph3r.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=800\&color=00FF00\&center=true\&vCenter=true\&width=435\&lines=Encamino,a,ser,Etical,Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=800\&color=00FF00\&center=true\&vCenter=true\&width=435\&lines=Searching...)](https://git.io/typing-svg)
 
 ## 🧠 Sobre mí
 
