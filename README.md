@@ -21,9 +21,6 @@
 - 🧷 Explorando: `Kali Linux` · `Wireshark` · `PowerShell` · `Bash`
     
 - 🧠 Interés real: Red Teaming / Pentesting
-    
-- 🌍 Desde Uruguay 🇺🇾
-    
 
 ---
 
