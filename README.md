@@ -10,18 +10,17 @@
 ---
 
 ## 🧠 Sobre mí
-
 ```bash
-> Soporte IT con hambre de conocimiento.
-> En modo aprendizaje constante: redes, automatización, Linux y hacking ético.
+> Soy Pablo aka Қ1รрнЗг, alguien que descubrio su gusto por las Informatica desde chico, desarmando-armando PC´s por simple curiosidad aunque recien a los 18 años me di cuenta que me gustaba mas que todo lo que habia visto hasta el momento.
+> Actualmente me encuentro trabajando como Soporte IT, buscando ampliar concimientos y mejorar en todo aspecto.
+> Siempre me encuentro en modo aprendizaje constante: redes, automatización, Linux y hacking ético.
 > Foco actual: redes, scripting, seguridad ofensiva.
-> Cursos: Microsoldadura en PCB’s, Full Stack Developer, Soporte IT.
+> Cursos: Microsoldadura en PCB’s, Full Stack Developer, Soporte IT y cursando REDES.
 ````
 
-- 🧷 Explorando: `Kali Linux` · `Wireshark` · `PowerShell` · `Bash`
+- 🧷 Explorando: `Kali Linux` . `Linux Mint` · `Wireshark` · `PowerShell` · `Bash` . `Ubuntu Server`
     
-- 🧠 Interés real: Red Teaming / Pentesting
-
+- 🧠 Interés real: Red Teaming / Pentesting / Hardware Hacking 
 ---
 
 ## ⚙️ Stack actual
@@ -30,24 +29,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)  
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)  
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-## 🔭 Proyectos en marcha
-
-```bash
-> Nada público aún, pero el laboratorio está encendido ⚡
-> Preparando scripts, automatizaciones, pruebas de red...
-```
-
----
-
-## 🕶️ Meta final
-
-```bash
-> Romper sistemas.
-> Entenderlos.
-> Defenderlos.
-```
----
